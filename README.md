@@ -1,12 +1,20 @@
 <h1 align="left">Hi there 👋, this is Quang</h1>
-<h4 align="left">I'm a current 3rd year CS student at SFU with an passion in IT and Networking</h4>
-<h3 align="left">A little about me</h2>
-While I do enjoy learning about technology in classes, I struggled at first to figure out what I really wanted to do in the future. I wasn't really keen on Web Development, and more creative fields related to Computer Graphics or Game Dev weren't my cup of tea either. The only class where I was truly invested in was Networking, since I found digging deeper into a crucial technology that we use everyday was way more interesting than making some flashy websites.
 
+<h3 align="left">A little about me 🌱</h3>
 
+I'm a 3rd year CS student at SFU. I'm especially interested in **IT Support**, and **Networking**.
 
-- 🌱 I’m currently building a home server with TrueNAS (you can see the full parts list, photos, and my journey [here](https://ca.pcpartpicker.com/user/Luck9/)). Nothing too crazy yet, and I'm proud of it, and am learning more about setting up a NAS everyday.
-- 😸 I'm also learning about **CompTIA A+** on the side, looking to finish the tests around Fall 2025.
+<h3 align="left">My inspirations ✨</h3>
+
+My interest in IT Support started when I had the chance to help a Sound Designer with fixing an issue with their setup. I didn't know much about troubleshooting at the time, especially since I hadn't worked with MacOS or the DAW software, and it took me nearly _10 hours_ before I could fully fix it. Despite all the frustration, I enjoyed the troubleshooting process thoroughly, and seeing how happy the person was also make me realize how much I enjoy helping people
+
+As for Networking, the inspiration was from a university course. It was one of the first class where I was truly invested in learning everything there is to learn, since I found digging deeper into crucial technologies and protocols that we use every day was way more interesting than making flashy websites or traversing graphs.
+
+<h3 align="left">What I'm working on 🏗️</h3>
+
+* 🌱 I’m currently building a home server with TrueNAS (you can see the full parts list, photos, and my journey [here](https://ca.pcpartpicker.com/b/QXyKHx)). Nothing too crazy yet, and I'm proud of it, and am learning more about setting up a NAS everyday.
+
+* 😸 I'm also learning about **CompTIA A+** on the side, aiming to finish the tests around Fall 2025.
 
 <h3 align="left">I'm also on:</h3>
 <p align="left">
