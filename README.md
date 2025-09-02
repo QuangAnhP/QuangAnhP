@@ -18,8 +18,8 @@ As for Networking, the inspiration was from a university course. It was one of t
 
 <h3 align="left">I'm also on:</h3>
 <p align="left">
-<a href="https://discord.gg/660796595972866048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord profile ID: 660796595972866048" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/qap3107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/qap3107" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/660796595972866048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord profile ID: 660796595972866048" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/qap3107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/qap3107" height="30" width="40" /></a>
 <a href="https://play.picoctf.org/users/Luck9" target="blank"><img align="center" src="https://picoctf.org/img/logos/picoctf-logo-horizontal-white.svg" alt="picoCTF" height="30" width="40" /></a>
 </p>
 
