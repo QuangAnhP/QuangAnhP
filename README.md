@@ -2,11 +2,11 @@
 
 <h3 align="left">A little about me 🌱</h3>
 
-I'm a 3rd year CS student at SFU. I'm especially interested in **IT Support**, and **Networking**.
+I'm a 3rd-year CS student at SFU. I'm especially interested in **IT Support**, and **Networking**.
 
 <h3 align="left">My inspirations ✨</h3>
 
-My interest in IT Support started when I had the chance to help a Sound Designer with fixing an issue with their setup. I didn't know much about troubleshooting at the time, especially since I hadn't worked with MacOS or the DAW software, and it took me nearly _10 hours_ before I could fully fix it. Despite all the frustration, I enjoyed the troubleshooting process thoroughly, and seeing how happy the person was also make me realize how much I enjoy helping people
+My interest in IT Support started when I had the chance to help a Sound Designer with fixing an issue with their setup. I didn't know much about troubleshooting at the time, especially since I hadn't worked with MacOS or the DAW software, and it took me nearly _10 hours_ before I could fully fix it. Despite all the frustration, I enjoyed the troubleshooting process thoroughly, and seeing how happy the person was also made me realize how much I enjoy helping people
 
 As for Networking, the inspiration was from a university course. It was one of the first class where I was truly invested in learning everything there is to learn, since I found digging deeper into crucial technologies and protocols that we use every day was way more interesting than making flashy websites or traversing graphs.
 
@@ -14,7 +14,7 @@ As for Networking, the inspiration was from a university course. It was one of t
 
 * 🌱 I’m currently building a home server with TrueNAS (you can see the full parts list, photos, and my journey [here](https://ca.pcpartpicker.com/b/QXyKHx)). Nothing too crazy yet, and I'm proud of it, and am learning more about setting up a NAS everyday.
 
-* 😸 I'm also learning about **CompTIA A+** on the side, aiming to finish the tests around Fall 2025.
+* 😸 I'm also learning about **CompTIA A+** on the side, just finished Core 1 (220-1201) early this January, looking to finish the whole certification by February.
 
 <h3 align="left">I'm also on:</h3>
 <p align="left">
